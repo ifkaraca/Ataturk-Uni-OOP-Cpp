@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ifkar\\Desktop\\Ataturk-Uni-OOP-Cpp\\teori1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63C30DC6-6F92-4E76-B1BD-45DE8E9389E4}|teori1\\teori1.vcxproj|C:\\Users\\ifkar\\Desktop\\Ataturk-Uni-OOP-Cpp\\teori1\\teori1\\teori1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63C30DC6-6F92-4E76-B1BD-45DE8E9389E4}|teori1\\teori1.vcxproj|solutionrelative:teori1\\teori1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teori1.cpp",
+              "DocumentMoniker": "C:\\Users\\ifkar\\Desktop\\Ataturk-Uni-OOP-Cpp\\teori1\\teori1\\teori1.cpp",
+              "RelativeDocumentMoniker": "teori1\\teori1.cpp",
+              "ToolTip": "C:\\Users\\ifkar\\Desktop\\Ataturk-Uni-OOP-Cpp\\teori1\\teori1\\teori1.cpp",
+              "RelativeToolTip": "teori1\\teori1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-19T20:20:07.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
