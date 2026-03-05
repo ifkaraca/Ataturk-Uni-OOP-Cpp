@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="teori2/teori2.vcxproj" />
+  <Project Path="../../../../../../Desktop/Ataturk-Uni-OOP-Cpp/teori2/teori2/teori2.vcxproj" Id="4d235708-5302-4aea-b7e9-c19c326d047b" />
 </Solution>

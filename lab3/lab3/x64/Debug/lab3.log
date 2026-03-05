@@ -1,0 +1,3 @@
+﻿  lab3.cpp
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\lab3\lab3\lab3.cpp(113,9): warning C4101: 'enKucuk': yerel değişken başvurusu kaldırıldı
+  lab3.vcxproj -> C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\lab3\x64\Debug\lab3.exe
