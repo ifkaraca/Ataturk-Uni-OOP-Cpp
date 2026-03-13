@@ -1,0 +1,3 @@
+﻿  teori4.cpp
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\teori4\teori4\teori4.cpp(110,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  teori4.vcxproj -> C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\teori4\x64\Debug\teori4.exe

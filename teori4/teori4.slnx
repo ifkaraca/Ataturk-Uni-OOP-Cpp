@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="teori4/teori4.vcxproj" Id="2eeafd0a-0aa5-47af-925f-316f32d0371d" />
+</Solution>
