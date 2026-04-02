@@ -11,10 +11,10 @@ int main()
 {
 	setlocale(LC_ALL, "Turkish");
 
-	//while kullanarak döngü
+	//------------------------------------------------------------------------------while kullanarak döngü
 	/*int toplam, notSayaci, puan;
 	double ortalama;
-	
+
 	toplam = 0;
 	notSayaci = 0;
 
@@ -32,16 +32,14 @@ int main()
 	//ortalama = (double)toplam / notSayaci;
 	cout << "Sınıf Ortalaması : " << setprecision(3) << ortalama << endl;*/
 
-
-	//for kullanarak döngü kurma
+	//------------------------------------------------------------------------------for kullanarak döngü kurma
 	/*int sayac = 1;
 	for (sayac; sayac <= 10; sayac++)
 	{
 		cout << sayac << endl;
 	}*/
 
-
-	//switch-case kullanımı
+	//------------------------------------------------------------------------------switch-case kullanımı
 	char secenek;
 	cin >> secenek;
 	secenek = toupper(secenek);
@@ -53,7 +51,7 @@ int main()
 	case 'B':
 		cout << "2";
 		break;
-	case'C':
+	case 'C':
 		cout << "3";
 		break;
 	default:

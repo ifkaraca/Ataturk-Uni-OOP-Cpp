@@ -8,8 +8,9 @@ using namespace std;
 
 int main()
 {
+	//------------------------------------------------------------------------------if bloklarını kullanarak en büyük sayıyı bulmak
 	setlocale(LC_ALL, "Turkish");
-	short int sayi1, sayi2, sayi3,enBuyuk;
+	short int sayi1, sayi2, sayi3, enBuyuk;
 	cout << "Lütfen birinci sayıyı giriniz: ";
 	cin >> sayi1;
 	cout << "Lütfen ikinci sayıyı giriniz: ";
