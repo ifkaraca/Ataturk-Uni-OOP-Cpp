@@ -1,0 +1,3 @@
+﻿  lab5.cpp
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\lab5\lab5\lab5.cpp(63,26): warning C4101: 'donustucu': yerel değişken başvurusu kaldırıldı
+  lab5.vcxproj -> C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\lab5\x64\Debug\lab5.exe
