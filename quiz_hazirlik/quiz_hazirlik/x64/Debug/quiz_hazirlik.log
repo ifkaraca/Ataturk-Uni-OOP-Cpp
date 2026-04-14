@@ -1,0 +1,5 @@
+﻿  KargoPaketi.cpp
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\quiz_hazirlik\quiz_hazirlik\KargoPaketi.cpp(26,32): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  quiz_hazirlik.cpp
+  Kod Üretiliyor...
+  quiz_hazirlik.vcxproj -> C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\quiz_hazirlik\x64\Debug\quiz_hazirlik.exe
