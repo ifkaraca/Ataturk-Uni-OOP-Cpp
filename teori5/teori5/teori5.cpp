@@ -10,18 +10,18 @@ int main()
     Zaman z;
    
 
-   /* cout << "Başlangıç Değeri" << endl;
+    cout << "Başlangıç Değeri" << endl;
     z.ZamanYazdir();
     z.ZamanAyarla(8, 10, 2);
     cout << "Ayarlandıktan Sonraki Değeri" << endl;
-    z.ZamanYazdir();*/
+    z.ZamanYazdir();
 
-    int sayi1, sayi2;
+   /* int sayi1, sayi2;
     cout << "İki tam sayı giriniz";
     cin >> sayi1 >> sayi2;
     Matematiksel islem(sayi1, sayi2);
     islem.EbobuYazdir();
-    islem.EkokuYazdir();
+    islem.EkokuYazdir();*/
 
     return 0;
 }

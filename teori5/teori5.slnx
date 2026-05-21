@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="teori5/teori5.vcxproj" />
+  <Project Path="teori5/teori5.vcxproj" Id="a525cd8c-0cda-443b-864e-bbf1c8f6dff4" />
 </Solution>
