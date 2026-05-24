@@ -19,5 +19,4 @@ int main()
     delete nesnePtr1;
     delete nesnePtr2;
     return 0;
-
 }

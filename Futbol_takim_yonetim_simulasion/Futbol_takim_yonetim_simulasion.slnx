@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="leylandsayisi/leylandsayisi.vcxproj" Id="574db059-c794-48f7-8edc-a54e1e1d8ada" />
+  <Project Path="Futbol_takim_yonetim_simulasion/Futbol_takim_yonetim_simulasion.vcxproj" />
 </Solution>

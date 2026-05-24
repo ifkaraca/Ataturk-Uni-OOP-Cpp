@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="kartezyen/kartezyen.vcxproj" />
+  <Project Path="kartezyen/kartezyen.vcxproj" Id="2eb9ecf7-50c1-4d80-95fe-bf19513bb893" />
 </Solution>
