@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(16,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  ConsoleApplication3.vcxproj -> C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe

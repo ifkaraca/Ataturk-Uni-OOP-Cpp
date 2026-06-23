@@ -1,0 +1,3 @@
+﻿  final4.cpp
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\final4\final4\final4.cpp(36,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  final4.vcxproj -> C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\final4\x64\Debug\final4.exe

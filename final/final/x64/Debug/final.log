@@ -1,0 +1,7 @@
+﻿  final.cpp
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\final\final\final.cpp(19,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\final\final\final.cpp(69,5): warning C4353: standart olmayan uzantı kullanıldı: işlev ifadesi olarak 0 sabiti kullanıldı. Bunun yerine '__noop' iç işlevini kullanın
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\final\final\final.cpp(69,14): error C2228: '.fonksiyon1' sol tarafı bir sınıf/yapı/birleşim içermelidir
+      C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\final\final\final.cpp(69,14):
+      tür 'int' şeklindedir
+  

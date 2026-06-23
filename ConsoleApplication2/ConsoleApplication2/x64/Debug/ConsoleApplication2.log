@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(13,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(30,1): warning C4715: 'Final25::f3': tüm denetim yolları değer döndürmez
+  ConsoleApplication2.vcxproj -> C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fianl3/fianl3.vcxproj" Id="dd9f4297-c70c-4d7c-811f-9dd2d7d03693" />
+</Solution>

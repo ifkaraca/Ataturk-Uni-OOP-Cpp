@@ -1,0 +1,3 @@
+﻿  fianl2.cpp
+C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\fianl2\fianl2\fianl2.cpp(18,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  fianl2.vcxproj -> C:\Users\ifkar\Desktop\Ataturk-Uni-OOP-Cpp\fianl2\x64\Debug\fianl2.exe
